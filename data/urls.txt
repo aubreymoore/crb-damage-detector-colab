@@ -1,7 +1,6 @@
-https://github.com/aubreymoore/crb-damage-detector-colab/blob/dc3c69f7cf69673f29e8336701043ee26626e61d/data/Vanuatu_July_2022_Sulav/IMG_0532.JPG
-https://agresearchnz-my.sharepoint.com/:i:/r/personal/sulav_paudel_agresearch_co_nz/Documents/Desktop/Folder%20for%20Aubrey/4%20Vanuatu_July_2022_Sulav/IMG_0532.JPG?csf=1&web=1&e=vwudRo
-https://agresearchnz-my.sharepoint.com/:i:/r/personal/sulav_paudel_agresearch_co_nz/Documents/Desktop/Folder%20for%20Aubrey/4%20Vanuatu_July_2022_Sulav/IMG_0671.JPG?csf=1&web=1&e=vwudRo
-https://agresearchnz-my.sharepoint.com/:i:/r/personal/sulav_paudel_agresearch_co_nz/Documents/Desktop/Folder%20for%20Aubrey/4%20Vanuatu_July_2022_Sulav/IMG_06XX.JPG?csf=1&web=1&e=vwudRo
-https://agresearchnz-my.sharepoint.com/:i:/r/personal/sulav_paudel_agresearch_co_nz/Documents/Desktop/Folder%20for%20Aubrey/4%20Vanuatu_July_2022_Sulav/IMG_0695.JPG?csf=1&web=1&e=vwudRo
-https://agresearchnz-my.sharepoint.com/:i:/r/personal/sulav_paudel_agresearch_co_nz/Documents/Desktop/Folder%20for%20Aubrey/4%20Vanuatu_July_2022_Sulav/IMG_0704.JPG?csf=1&web=1&e=vwudRo
-https://agresearchnz-my.sharepoint.com/:i:/r/personal/sulav_paudel_agresearch_co_nz/Documents/Desktop/Folder%20for%20Aubrey/4%20Vanuatu_July_2022_Sulav/IMG_0713.JPG?csf=1&web=1&e=vwudRo
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/IMG_0532.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/IMG_0671.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/IMG_06XX.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/IMG_0695.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/IMG_0704.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/IMG_0713.JPG?raw=true
