@@ -2,7 +2,7 @@
 
 # Quick Start - Using Example Data Stored in This Repository
 
-## Scan images referered to by a list of URLS
+## Scan images referred to by a list of URLS
 
 This is the most efficient way of using crb-damage-detector.
 
