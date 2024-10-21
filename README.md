@@ -6,7 +6,7 @@
 
 This is the most efficient way of using crb-damage-detector.
 
-1. Open the page for [data/urls.txt](data/urls.txt) and click on the ```Download raw file``` button ![](images/download_raw.png)
+1. Open the page for [data/urls.txt](data/urls.txt) and click on the ```Download raw file``` button [![](images/download_raw.png)]
 2. Open crb-damage-detector in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreymoore/crb-damage-detector-colab/blob/main/detect_and_annotate.ipynb)
 3. Click on the ```Browse``` button and navigate to where you downloaded ```urls.txt``` (```Downloads/urls.txt``` for example)
 4. After data from your scanned images will be saved in a temporary ```OUTPUT``` Colab folder. When all images have been scanned, the ```OUTPUT``` folder will be automatically downloaded to your computer as a ```ZIP``` file (```OUTPUT.zip```)
