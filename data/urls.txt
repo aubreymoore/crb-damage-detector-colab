@@ -1,6 +1,6 @@
-https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/resized-images/IMG_0532.JPG?raw=true
-https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/resized-images/IMG_0671.JPG?raw=true
-https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/resized-images/IMG_06XX.JPG?raw=true
-https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/resized-images/IMG_0695.JPG?raw=true
-https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/resized-images/IMG_0704.JPG?raw=true
-https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/Vanuatu_July_2022_Sulav/resized-images/IMG_0713.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/images/IMG_0532.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/images/IMG_0671.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/images/IMG_06XX.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/images/IMG_0695.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/images/IMG_0704.JPG?raw=true
+https://github.com/aubreymoore/crb-damage-detector-colab/blob/main/data/images/IMG_0713.JPG?raw=true
