@@ -2,7 +2,7 @@
 
 ## Note on Image Size
 
-The current model was trained on images having a maxim width or height of 960 pixels.
+The current model was trained on images having a maximum width or height of 960 pixels.
 I recommend resizing your images before uploading.
 This is not absolutely necessary.
 But it will significantly speed up downloads and uploads.
