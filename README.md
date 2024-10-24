@@ -8,7 +8,7 @@ This is not absolutely necessary.
 But it will significantly speed up downloads and uploads.
 It is important to use a method which preserves EXIF metadata, especially
 if GPS coordinates are embedde within your images. 
-```ImageMagick`` can be used. The following command resizes all images with the
+```ImageMagick``` can be used. The following command resizes all images with the
 current folder.
 ```
 mogrify -resize "960>" *.JPG
