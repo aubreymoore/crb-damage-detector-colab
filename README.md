@@ -9,7 +9,7 @@ But it will significantly speed up processing.
 
 It is important to use a resizing method which preserves EXIF metadata, especially
 if GPS coordinates are embedded within your images. 
-```ImageMagick``` can be used. The following command resizes all images with the
+```ImageMagick``` can be used. The following command resizes all JPG images with the
 current folder.
 ```
 mogrify -resize "960>" *.JPG
