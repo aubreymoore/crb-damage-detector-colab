@@ -1,5 +1,19 @@
 # crb-damage-detector-colab
 
+## Note on Image Size
+
+The current model was trained on images having a maxim width or height of 960 pixels.
+I recommend resizing your images before uploading.
+This is not absolutely necessary.
+But it will significantly speed up downloads and uploads.
+If you do this, it is important to use a method which preserves EXIF metadata, especially
+if GPS coordinates are saved within. 
+```ImageMagick`` can be used for this. The following command resizes all images with the
+current folder.
+```
+mogrify -resize "960>" *.JPG
+```
+
 # Quick Start - Using Example Data Stored in This Repository
 
 ## Scan images referred to by a list of URLS
