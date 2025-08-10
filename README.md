@@ -1,5 +1,7 @@
 # crb-damage-detector-colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aubreymoore/crb-damage-detector-colab/blob/main/detect_and_annotate.ipynb)
+
 ## Note on Image Size
 
 The current model was trained on images having a maximum width or height of 960 pixels.
