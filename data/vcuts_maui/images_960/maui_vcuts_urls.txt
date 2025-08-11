@@ -1,0 +1,3 @@
+https://github.com/aubreymoore/crb-damage-detector-colab/new/main/data/vcuts_maui/images_960/Hyatt_coconut.jpg
+https://github.com/aubreymoore/crb-damage-detector-colab/new/main/data/vcuts_maui/images_960/Kaanapali_Golf_Course.jpg
+https://github.com/aubreymoore/crb-damage-detector-colab/new/main/data/vcuts_maui/images_960/Ulua_Beach.jpg
